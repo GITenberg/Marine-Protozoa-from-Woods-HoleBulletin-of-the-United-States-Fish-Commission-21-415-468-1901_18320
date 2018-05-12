@@ -1,0 +1,31 @@
+_repo: Marine-Protozoa-from-Woods-HoleBulletin-of-the-United-States-Fish-Commission-21-415-468-1901_18320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calkins, Gary N. (Gary Nathan)
+    alias: Calkins, Gary Nathan
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '7943'
+    url: http://www.gutenberg.org/2009/agents/7943
+description: ''
+gutenberg_issued: '2006-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Protozoa -- Massachusetts -- Woods Hole'
+- !lcc 'SH'
+- !lcsh 'United States Fisheries Biological Station at Woods Hole, Massachusetts'
+title: 'Marine Protozoa from Woods Hole
+
+  Bulletin of the United States Fish Commission 21:415-468, 1901'
+url: http://www.gutenberg.org/ebooks/18320
