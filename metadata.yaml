@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7943'
     url: http://www.gutenberg.org/2009/agents/7943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18320#Marine-Protozoa-from-Woods-HoleBulletin-of-the-United-States-Fish-Commission-21-415-468-1901
 gutenberg_issued: '2006-05-05'
 gutenberg_type: Text
 identifiers:
